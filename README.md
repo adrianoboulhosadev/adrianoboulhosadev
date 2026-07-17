@@ -64,7 +64,7 @@ Confira alguns dos cursos e especializações que concluí no meu repositório d
 ## 📫 Fala comigo
 
 - 📬 Email: [adrianoamaral1621@gmail.com](mailto:adrianoamaral1621@gmail.com)
-- 💼 LinkedIn: [linkedin.com/in/adrianoamaraldev](https://linkedin.com/in/adrianoamaraldev)
+- 💼 LinkedIn: [linkedin.com/in/adrianoboulhosadev](https://linkedin.com/in/adrianoboulhosadev)
 - 🌐 Portfólio: [www.adriano.dev](https://www.adriano.dev)
 
 ---
